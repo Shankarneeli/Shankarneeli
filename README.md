@@ -2,7 +2,7 @@
 <imge align="right" alt="Coding" width="300" src="user.jpeg">
 
 # 💫 Shankar Neeli:<br> A FrontEnd Developer
-🔭I'm Currently working on improving my Web Development (MERN) skills <br>🌱I'm Currently Learning MERN Stack (In Detail)<br>👯I'm Looking to collaborate with other MERN Developers<br>🤝I'm Looking for Help with Building personal Projects using MERN<br>💬Reach/Ask me About Web Development Related<br>📫 How to Reach Me: shankarneelioff@gmail.com<br>⚡Fun Fact- Life Stops when Learning Stops😌✌<br>
+🔭I'm Currently working on Real time Full Stack Applications <br>🌱I'm Currently Learning how to handle a Production grade Application entirely on Myself <br>👯I'm Looking to collaborate with other MERN Developers<br>🤝I'm Looking for Help with Building Interesting  Projects using Full Stack which can Solve Real World Problems <br>💬Reach/Ask me About Web Development Related<br>📫 How to Reach Me: shankarneelioff@gmail.com<br>⚡Fun Fact- Life Stops when Learning Stops😌✌<br>
 
 
 ## 🌐 Socials:
